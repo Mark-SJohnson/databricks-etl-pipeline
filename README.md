@@ -120,4 +120,3 @@ Sample Source Data (samples.nyctaxi.trips)
 - Explore Databricks Asset Bundles (DABs) for CI/CD-style deployment
 
 ---
-*Part of a DP-750 (Azure Databricks Data Engineer Associate) certification preparation series.*
